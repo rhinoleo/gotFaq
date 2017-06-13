@@ -1,0 +1,32 @@
+2017-06-15T17:09:14.784939423 0.099767s notice: Recursively removing directory /home/wilder/Bureau/atelier-bcrypt/gotfaq/api/rethinkdb_data/tmp
+2017-06-15T17:09:14.794832587 0.109659s notice: Initializing directory /home/wilder/Bureau/atelier-bcrypt/gotfaq/api/rethinkdb_data
+2017-06-15T17:09:14.794947475 0.109774s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/wilder/Bureau/atelier-bcrypt/gotfaq/api/rethinkdb_data' did not already exist or is empty.)
+2017-06-15T17:09:14.794975825 0.109802s notice: Running rethinkdb 2.3.5~0xenial (GCC 5.3.1)...
+2017-06-15T17:09:14.801959624 0.116788s notice: Running on Linux 4.4.0-79-generic x86_64
+2017-06-15T17:09:14.802019065 0.116845s notice: Loading data from directory /home/wilder/Bureau/atelier-bcrypt/gotfaq/api/rethinkdb_data
+2017-06-15T17:09:14.857318440 0.172145s info: Automatically using cache size of 1172 MB
+2017-06-15T17:09:14.858153041 0.172979s notice: Listening for intracluster connections on port 29015
+2017-06-15T17:09:14.860553338 0.175380s notice: Listening for client driver connections on port 28015
+2017-06-15T17:09:14.860777247 0.175604s notice: Listening for administrative HTTP connections on port 8080
+2017-06-15T17:09:14.860784623 0.175611s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-06-15T17:09:14.860788194 0.175614s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-06-15T17:09:14.860792761 0.175619s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-06-15T17:09:14.860796198 0.175622s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-06-15T17:09:14.860800970 0.175627s notice: Server ready, "wilder_ThinkPad_T430s_080" 884a28a1-17df-4cd1-b8a4-917c6251dc24
+2017-06-15T17:13:56.178620175 280.688399s info: Table 5850773d-483b-49f9-a0c1-a2441f744175: Starting a new Raft election for term 1.
+2017-06-15T17:13:56.179241457 280.689020s info: Table 5850773d-483b-49f9-a0c1-a2441f744175: Added replica on this server.
+2017-06-15T17:13:56.184404311 280.694183s info: Table 5850773d-483b-49f9-a0c1-a2441f744175: This server is Raft leader for term 1. Latest log index is 0.
+2017-07-02T19:19:15.572049971 0.250531s notice: Running rethinkdb 2.3.5~0xenial (GCC 5.3.1)...
+2017-07-02T19:19:15.575702777 0.254186s notice: Running on Linux 4.4.0-81-generic x86_64
+2017-07-02T19:19:15.575783608 0.254265s notice: Loading data from directory /home/wilder/Bureau/atelier-bcrypt/gotfaq/api/rethinkdb_data
+2017-07-02T19:19:15.611842400 0.290324s info: Automatically using cache size of 981 MB
+2017-07-02T19:19:15.613108637 0.291589s notice: Listening for intracluster connections on port 29015
+2017-07-02T19:19:15.649150999 0.327632s notice: Listening for client driver connections on port 28015
+2017-07-02T19:19:15.650820295 0.329302s notice: Listening for administrative HTTP connections on port 8080
+2017-07-02T19:19:15.650826175 0.329307s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-07-02T19:19:15.650829537 0.329310s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-07-02T19:19:15.650832874 0.329314s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-07-02T19:19:15.653408529 0.331890s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-07-02T19:19:15.653414064 0.331895s notice: Server ready, "wilder_ThinkPad_T430s_080" 884a28a1-17df-4cd1-b8a4-917c6251dc24
+2017-07-02T19:19:16.829153050 1.507634s info: Table 5850773d-483b-49f9-a0c1-a2441f744175: Starting a new Raft election for term 2.
+2017-07-02T19:19:16.834705548 1.513187s info: Table 5850773d-483b-49f9-a0c1-a2441f744175: This server is Raft leader for term 2. Latest log index is 2.

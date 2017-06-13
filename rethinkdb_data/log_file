@@ -1,0 +1,42 @@
+2017-07-02T19:13:04.201779593 0.148285s notice: Recursively removing directory /home/wilder/Bureau/atelier-bcrypt/gotfaq/rethinkdb_data/tmp
+2017-07-02T19:13:04.223932725 0.170438s notice: Initializing directory /home/wilder/Bureau/atelier-bcrypt/gotfaq/rethinkdb_data
+2017-07-02T19:13:04.224251939 0.170757s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/wilder/Bureau/atelier-bcrypt/gotfaq/rethinkdb_data' did not already exist or is empty.)
+2017-07-02T19:13:04.224313528 0.170818s notice: Running rethinkdb 2.3.5~0xenial (GCC 5.3.1)...
+2017-07-02T19:13:04.238544535 0.185053s notice: Running on Linux 4.4.0-81-generic x86_64
+2017-07-02T19:13:04.238676919 0.185181s notice: Loading data from directory /home/wilder/Bureau/atelier-bcrypt/gotfaq/rethinkdb_data
+2017-07-02T19:13:04.295658216 0.242163s info: Automatically using cache size of 825 MB
+2017-07-02T19:13:04.296117734 0.242622s error: TCP socket creation failed for port 29015: Address already in use.
+2017-07-02T19:13:38.331289484 0.148285s notice: Running rethinkdb 2.3.5~0xenial (GCC 5.3.1)...
+2017-07-02T19:13:38.335032926 0.152031s notice: Running on Linux 4.4.0-81-generic x86_64
+2017-07-02T19:13:38.335101954 0.152097s notice: Loading data from directory /home/wilder/Bureau/atelier-bcrypt/gotfaq/rethinkdb_data
+2017-07-02T19:13:38.355645559 0.172642s info: Automatically using cache size of 969 MB
+2017-07-02T19:13:38.358846713 0.175843s notice: Listening for intracluster connections on port 29015
+2017-07-02T19:13:38.363179626 0.180176s notice: Listening for client driver connections on port 28015
+2017-07-02T19:13:38.363658296 0.180654s notice: Listening for administrative HTTP connections on port 8080
+2017-07-02T19:13:38.363664875 0.180660s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-07-02T19:13:38.363670770 0.180666s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-07-02T19:13:38.363679942 0.180676s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-07-02T19:13:38.363684148 0.180680s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-07-02T19:13:38.363687738 0.180683s notice: Server ready, "wilder_ThinkPad_T430s_3qj" df0abe5f-1c65-403d-ac17-ddf1114ef309
+2017-07-02T19:15:25.937264773 107.754261s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2017-07-02T19:15:25.937486593 107.754482s notice: Shutting down client connections...
+2017-07-02T19:15:25.937588605 107.754584s notice: All client connections closed.
+2017-07-02T19:15:25.937596992 107.754592s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2017-07-02T19:15:25.937846184 107.754842s notice: Storage engine shut down.
+2017-07-02T19:17:52.534991343 0.256786s notice: Running rethinkdb 2.3.5~0xenial (GCC 5.3.1)...
+2017-07-02T19:17:52.542171133 0.263968s notice: Running on Linux 4.4.0-81-generic x86_64
+2017-07-02T19:17:52.542246368 0.264040s notice: Loading data from directory /home/wilder/Bureau/atelier-bcrypt/gotfaq/rethinkdb_data
+2017-07-02T19:17:52.581022908 0.302817s info: Automatically using cache size of 951 MB
+2017-07-02T19:17:52.581575611 0.303370s notice: Listening for intracluster connections on port 29015
+2017-07-02T19:17:52.582963605 0.304758s notice: Listening for client driver connections on port 28015
+2017-07-02T19:17:52.583181728 0.304976s notice: Listening for administrative HTTP connections on port 8080
+2017-07-02T19:17:52.583185960 0.304980s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-07-02T19:17:52.583191919 0.304986s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-07-02T19:17:52.583196121 0.304990s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-07-02T19:17:52.583201329 0.304995s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-07-02T19:17:52.583206927 0.305001s notice: Server ready, "wilder_ThinkPad_T430s_3qj" df0abe5f-1c65-403d-ac17-ddf1114ef309
+2017-07-02T19:19:08.669461612 76.391256s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2017-07-02T19:19:08.669559236 76.391353s notice: Shutting down client connections...
+2017-07-02T19:19:08.669635871 76.391430s notice: All client connections closed.
+2017-07-02T19:19:08.669638440 76.391432s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2017-07-02T19:19:08.669966894 76.391761s notice: Storage engine shut down.
